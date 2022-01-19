@@ -1,0 +1,1 @@
+b'Temp\xc3\xa9rature = 20.80 \xc2\xb0C\r\n'b'Temp\xc3\xa9rature ressentie = 20.36 \xc2\xb0C\r\n'
